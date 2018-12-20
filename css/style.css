@@ -1778,11 +1778,11 @@ ul.social-intro li a {
     }
 
     .bl-main>section:nth-child(4):not(.bl-expand) {
-        top: calc(99% - 1px);
+        top: calc(83% - 17px);
     }
 
     .bl-main>section:nth-child(3):not(.bl-expand) {
-        top: calc(82% - 16px);
+        top: calc(66% - 1px);
     }
 
     .bl-main>section:nth-child(2):not(.bl-expand) {
