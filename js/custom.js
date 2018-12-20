@@ -8,7 +8,7 @@
         $("body").toggleClass("loaded");
         setTimeout(function() {
             $("body").addClass("loaded");
-        }, 500);
+        }, 1000);
 
         // PORTFOLIO DIRECTION AWARE HOVER EFFECT
         var item = $("#bl-work-items>div");
