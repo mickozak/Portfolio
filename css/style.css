@@ -1745,3 +1745,10 @@ ul.social-intro li a {
     }
 
 }
+
+
+@media screen and (max-width: 1200px){
+    .topleft-audio{
+        display: none;
+    }
+}
