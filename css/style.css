@@ -417,6 +417,12 @@ body.dark .responsive-video {
     z-index: 1000;
 }
 
+@media screen and (max-width: 1200px){
+    #loader-wrapper .loader-section{
+        display: none;
+    }
+}
+
 #loader-wrapper .loader-section.section-left {
     left: 0;
 }
