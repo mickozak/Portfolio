@@ -7,7 +7,6 @@ Used.:
 - HTML,
 - CSS,
 - JavaScript,
-- jQuery,
-- Normalize CSS.
+- jQuery.
 
 Link.: https://mickozak.github.io/Portfolio/
