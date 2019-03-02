@@ -10,3 +10,4 @@ Used.:
 - JavaScript.
 
 Link.: https://mickozak.github.io/Portfolio/
+Link.: https://www.kozakmichal.pl
