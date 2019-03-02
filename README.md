@@ -6,6 +6,7 @@ Used.:
 
 - HTML,
 - CSS,
+- SASS,
 - JavaScript.
 
 Link.: https://mickozak.github.io/Portfolio/
